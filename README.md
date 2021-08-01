@@ -1,2 +1,8 @@
 # PermaCult
-Created with CodeSandbox
+Web designing competition
+
+## Team Members
+* Sneha
+* Srinisha
+* Vaishalli
+* Varshini
