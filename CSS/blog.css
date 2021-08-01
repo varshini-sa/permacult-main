@@ -1,0 +1,47 @@
+:root {
+  background-image: url("../images/BlogBG.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+body {
+  background-color: transparent !important;
+}
+.center-text {
+  position: absolute;
+  font-size: 25px;
+  font-family: "Lobster", cursive;
+  top: 40%;
+  left: 48%;
+  transform: translate(-50%, -40%);
+  text-align: center;
+}
+.center-text p {
+  font-family: cursive;
+  color: #123806;
+  font-size: 25px;
+  padding-top: 20px;
+  text-align: center;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  margin: 5px;
+  margin-left: 10px;
+}
+.navbar-brand {
+  padding: 0px !important;
+}
+.items {
+  margin: 10px;
+  font-family: cursive;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+.items:hover {
+  color: black;
+  text-decoration: underline solid #d00b11;
+  text-underline-position: under;
+}
